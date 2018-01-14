@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Hewlett Packard/CLionProjects/untitled1/cmake-build-debug/snakeGame.cpp
+
+C:/Users/Hewlett Packard/CLionProjects/untitled1/main.cpp
+iostream
+-
+stdio.h
+-
+conio.h
+-
+afxres.h
+-
+
